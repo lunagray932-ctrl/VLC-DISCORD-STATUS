@@ -1,0 +1,7 @@
+{
+  "discord_client_id": "YOUR_DISCORD_CLIENT_ID_HERE",
+  "vlc_host": "localhost",
+  "vlc_port": 8080,
+  "vlc_password": "vlcremote",
+  "update_interval": 5
+}
